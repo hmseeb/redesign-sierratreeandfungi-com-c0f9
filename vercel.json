@@ -334,6 +334,11 @@
       "source": "/admin",
       "destination": "https://vision.leadrai.com/site-admin/site-636442ba7c8e5a77fcfd69c3fa49032b55d4",
       "permanent": false
+    },
+    {
+      "source": "/review",
+      "destination": "https://vision.leadrai.com/r/y570ot4_q0hzA8LgnvYM9B3x9FWecajNpK5iHup0QUo",
+      "permanent": false
     }
   ]
 }
