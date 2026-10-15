@@ -329,6 +329,11 @@
       "source": "/arboristnotes/how-will-el-nino-affect-my-trees/",
       "destination": "/",
       "permanent": true
+    },
+    {
+      "source": "/admin",
+      "destination": "https://vision.leadrai.com/site-admin/site-636442ba7c8e5a77fcfd69c3fa49032b55d4",
+      "permanent": false
     }
   ]
 }
