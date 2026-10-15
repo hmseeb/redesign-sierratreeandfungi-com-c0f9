@@ -1,0 +1,334 @@
+{
+  "redirects": [
+    {
+      "source": "/expert-witness-arborist-sacramento",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/expert-witness-arborist-sacramento/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-cost",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-cost/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/el-dorado-county",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/el-dorado-county/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-placerville",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-placerville/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-el-dorado-hills",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-el-dorado-hills/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-cameron-park",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-cameron-park/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-shingle-springs",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-shingle-springs/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sacramento-county",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sacramento-county/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-folsom",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-folsom/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/placer-county",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/placer-county/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-roseville",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-roseville/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-rocklin",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-rocklin/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-auburn",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-auburn/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-granite-bay",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arborist-granite-bay/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/amador-county",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/amador-county/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/credentials",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/credentials/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/resources/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-california-tree-books",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-california-tree-books/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/consultation",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/consultation/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/science-meets-trees",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/science-meets-trees/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/invasive-ambrosia-beetles",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/invasive-ambrosia-beetles/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/peach-leaf-curl-treatment",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/peach-leaf-curl-treatment/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/top-fungi-on-oaks-el-dorado-county",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/top-fungi-on-oaks-el-dorado-county/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/cryptoporus-volvatus-veiled-polypore",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/cryptoporus-volvatus-veiled-polypore/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/sierra-nevada-morels",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/sierra-nevada-morels/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/omphalotus-olivascens-jack-o-lantern",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/omphalotus-olivascens-jack-o-lantern/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/sudden-oak-death-california",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/sudden-oak-death-california/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/isoprene-how-trees-survive-heat",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/isoprene-how-trees-survive-heat/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/how-will-el-nino-affect-my-trees",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/arboristnotes/how-will-el-nino-affect-my-trees/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
