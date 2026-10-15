@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sierra Tree and Fungi">
+  <rect width="64" height="64" rx="14" fill="#0f2e22"/>
+  <path d="M32 9 44 27H20L32 9Z" fill="#3f8c63"/>
+  <path d="M32 19 47 40H17L32 19Z" fill="#2d6a4b"/>
+  <path d="M29.5 38h5v13h-5z" fill="#8a6a3c"/>
+  <path d="M22 48c0-4.4 4-8 9-8s9 3.6 9 8H22Z" fill="#c9811f"/>
+  <rect x="29" y="47" width="6" height="8" rx="2.5" fill="#efe6d4"/>
+</svg>
